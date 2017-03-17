@@ -1,0 +1,3 @@
+USEPA Thresholds for aquatic toxicity: https://www.epa.gov/wqc/national-recommended-water-quality-criteria-aquatic-life-criteria-table
+
+Canadian Environmental Agency Guideline: http://www2.gov.bc.ca/gov/content/environment/air-land-water/water/water-quality/water-quality-guidelines/approved-water-quality-guidelines
