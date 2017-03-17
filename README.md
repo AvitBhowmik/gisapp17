@@ -1,6 +1,5 @@
 Course: Geoinformation Systems (GIS) Application
 --------------------------------
-This is the GitHub repository for the block course "Geoinformation Systems (GIS) Application" offered by the Institute for Environmental Sciences, University of Koblenz-Landau at the Winter Semester 2016/2017.
 
 * Date: Monday -- Tuesday, **March 20-21, 2017**
 * Time: **9.30 -- 16.30** 
