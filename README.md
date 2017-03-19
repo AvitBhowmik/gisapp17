@@ -8,7 +8,7 @@ Course: Geoinformation Systems (GIS) Application
 
 ## Lecturer
 
-* [Avit Kumar Bhowmik](https://avitbhowmik.ml/)
+* [Dr. Avit K. Bhowmik](https://avitbhowmik.ml/)
 
 
 ## Before we start
