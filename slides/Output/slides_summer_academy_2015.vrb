@@ -1,0 +1,15 @@
+\frametitle{R and moRe}
+\begin{exampleblock}{Spatial objects: class()}
+\begin{verbatim}
+SpatialPointsDataFrame
+SpatialLinesDataFrame
+SpatialPolygonsDataFrame
+SpatialGridDataFrame
+stfdf
+sp
+raster
+Extent
+Date
+xts, ts
+\end{verbatim}
+\end{exampleblock}
