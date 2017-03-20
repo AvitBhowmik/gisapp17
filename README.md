@@ -50,7 +50,7 @@ In the practical part, I will demonstrate the application of spatial interpolati
 
 ## Participants' evaluation
 
-The performance of the participants will be evaluated though group projects. The projects and groups will be announced on Tuesday.
+The performance of the participants will be evaluated though [group projects](https://github.com/AvitBhowmik/gisapp17/tree/master/project). The projects and groups will be announced on Tuesday.
 
 
 ## Course evaluation
