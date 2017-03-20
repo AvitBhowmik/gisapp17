@@ -15,6 +15,6 @@ Each group models spatial variability and interpolates the concentration of the 
 
 * A complete R-script detailing the choice of variogram model, interpolation method, secondary variables and selected guideline value
 
-* Figures (.tiff format) for fitted variogram model, interpolation concentrations and risk surfaces
+* Figures (.tiff format) for fitted variogram model, interpolated concentrations and risk surfaces
 
 * Contributions of group members 
